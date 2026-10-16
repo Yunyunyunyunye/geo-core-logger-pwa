@@ -1,6 +1,6 @@
 # 岩芯编录 PWA
 
-当前版本：1.30（versionCode 31）— freeform DIY TemplateBox（自由模板框）。
+当前版本：1.31（versionCode 32）— RQD 导入允许长度为 0。
 
 由 [geo-core-logger](https://github.com/Yunyunyunyunye/geo-core-logger) 的 `web/dist` 部署。
 
