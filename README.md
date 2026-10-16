@@ -1,6 +1,6 @@
 # 岩芯编录 PWA
 
-当前版本：1.23。第二表/投图表不再写入或校验钻孔结构；结构仅通过第一表「10钻孔结构」导出。
+当前版本：1.26。描述模板支持风化/变换句式 DIY（无风化句式、其它风化句式、取值句式、风化分界句式）。
 
 由 [geo-core-logger](https://github.com/Yunyunyunyunye/geo-core-logger) 的 `web/dist` 部署。
 
