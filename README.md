@@ -1,6 +1,6 @@
 # 岩芯编录 PWA
 
-当前版本：1.32（versionCode 33）— CSV 分层导入（与「导出 CSV」同表头）。
+当前版本：1.33（versionCode 34）— 钻孔编号大小写不敏感导入 + DIY 多描述模板（记录表可选）。
 
 由 [geo-core-logger](https://github.com/Yunyunyunyunye/geo-core-logger) 的 `web/dist` 部署。
 
