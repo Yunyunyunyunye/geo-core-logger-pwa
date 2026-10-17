@@ -1,0 +1,1 @@
+import{T as e,f as t}from"./index-CWw0izOm.js";var n=e({workbookBlob:()=>r});t();function r(e){return new Blob([e],{type:`application/vnd.openxmlformats-officedocument.spreadsheetml.sheet`})}export{r as n,n as t};
